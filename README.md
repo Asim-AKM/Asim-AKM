@@ -9,7 +9,7 @@
 ### 💻 About Me
 
 I'm an enthusiastic and passionate **Software Engineering student** currently in my **7th semester**.  
-I enjoy building **Web APIs**, **Web Applications**, and **Desktop Applications** using modern technologies like **.NET Core** and **Angular**, with a strong focus on **clean architecture**, **performance**, and **maintainable code**.
+I enjoy building **Web APIs**, **Web Applications**, and **Desktop Applications** using modern technologies like **.NET Core** and **Blazzor**, with a strong focus on **clean architecture**, **performance**, and **maintainable code**.
 
 ---
 
