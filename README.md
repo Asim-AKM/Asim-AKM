@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Muhammad Asim Miani</h1>
 
 <p align="center">
-🚀 <b>Full Stack Developer</b> | Angular | C# | ASP.NET Core | Web API | ASP.NET MVC  
-🎓 <b>BS Software Engineering Student</b>
+🚀 <b>Full Stack Developer</b> | Blazzor | C# | ASP.NET Core | Web API | ASP.NET MVC  
 </p>
 
 ---
