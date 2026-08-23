@@ -83,8 +83,15 @@ Gomal University · Dera Ismail Khan, Pakistan
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asim-AKM&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=8B949E&icon_color=8B949E&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-AKM&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=8B949E&text_color=C9D1D9" />
+  <a href="https://github.com/Asim-AKM">
+    <img src="https://img.shields.io/github/followers/Asim-AKM?style=for-the-badge&label=Followers&color=8B949E" />
+  </a>
+  <a href="https://github.com/Asim-AKM?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Asim-AKM?style=for-the-badge&label=Stars&color=8B949E" />
+  </a>
+  <a href="https://github.com/Asim-AKM">
+    <img src="https://komarev.com/ghpvc/?username=Asim-AKM&style=for-the-badge&color=8B949E&label=Profile+Views" />
+  </a>
 </p>
 
 ---
