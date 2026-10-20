@@ -52,7 +52,7 @@ A Software Engineering graduate with a **3.69/4.00 CGPA**, focused on writing cl
 
 ### .NET Backend Developer — LifeBonder 🇩🇰
 
-**Jun 2025 – Dec 2025 · Remote**
+**Jan 2026 – Present · Remote**
 
 - Developed and maintained ASP.NET Core RESTful APIs for a live social-networking mobile application.
 - Worked on authentication and core user-interaction features used by real end users.
@@ -61,7 +61,7 @@ A Software Engineering graduate with a **3.69/4.00 CGPA**, focused on writing cl
 
 ### Full Stack .NET Developer — Netrix Solutions 🇵🇰
 
-**Nov 2024 – May 2025 · Dera Ismail Khan, Pakistan**
+**July 2025 – Dec 2025 · Dera Ismail Khan, Pakistan**
 
 - Developed RESTful APIs and e-commerce application features using ASP.NET Core and Blazor.
 - Implemented JWT authentication and role-based access control (RBAC).
