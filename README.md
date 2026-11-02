@@ -1,14 +1,14 @@
 # MUHAMMAD ASIM
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&width=800&lines=Full-Stack+.NET+Developer;ASP.NET+Core+%C2%B7+Blazor+%C2%B7+Angular+%C2%B7+Clean+Architecture" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&width=850&lines=.NET+Full+Stack+Developer;ASP.NET+Core+%C2%B7+React.js+%C2%B7+Node.js;Clean+Architecture+%C2%B7+Scalable+Web+Applications" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="mailto:asim.akm9@gmail.com">
+  <a href="mailto:asimkhanmiani9@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B949E?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-asim-584ab9443/">
+  <a href="https://www.linkedin.com/in/muhammad-asim-akm/">
     <img src="https://img.shields.io/badge/LinkedIn-8B949E?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Asim-AKM">
@@ -20,112 +20,125 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack .NET Developer with **1+ years of professional experience** building production-ready web applications, RESTful APIs, and backend services using **C#, ASP.NET Core, Entity Framework Core, SQL Server, Blazor, and Angular**.
+.NET Full Stack Developer with **4+ years of professional experience** building scalable, secure, and production-ready web applications using **C#, ASP.NET Core, Entity Framework Core, SQL Server, React.js, and Node.js**.
 
-Experienced in **Clean Architecture, Repository Pattern, JWT authentication, role-based access control (RBAC), and database design**. Contributed to a live social-networking application at LifeBonder (Denmark) and developed features for an e-commerce platform at Netrix Solutions.
+Experienced in designing RESTful APIs, implementing Clean Architecture, CQRS, Repository Pattern, and Unit of Work. Strong expertise in authentication and authorization using JWT, OAuth 2.0, and RBAC, alongside real-time application development with SignalR and Socket.io.
 
-A Software Engineering graduate with a **3.69/4.00 CGPA**, focused on writing clean, maintainable code and delivering reliable backend solutions.
+Passionate about writing maintainable code, optimizing application performance, building scalable systems, and delivering reliable software solutions in Agile environments.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,html,css,bootstrap,postgres,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,express,angular,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
 <p align="center">
-  <b>Backend:</b> C# · ASP.NET Core · RESTful Web APIs · Entity Framework Core · Dapper · LINQ · JWT Authentication · RBAC
-  <br/>
-  <b>Frontend:</b> Blazor Server · Angular · Razor Pages · Bootstrap · jQuery · AJAX
-  <br/>
-  <b>Database:</b> SQL Server · PostgreSQL · Azure SQL Server
-  <br/>
-  <b>Architecture:</b> Clean Architecture · Repository Pattern · Dependency Injection · MVC · Microservices
-  <br/>
-  <b>Tools:</b> Git/GitHub · Visual Studio 2022 · Swagger/OpenAPI · xUnit · SignalR
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,redis,azure,docker,git,github,visualstudio,vscode" />
 </p>
+
+**Backend:** C# · ASP.NET Core · .NET Core · Web API · Node.js · Express.js · Entity Framework Core · Dapper · LINQ · MediatR · SignalR · Socket.io
+
+**Frontend:** React.js · Angular · TypeScript · JavaScript · Redux Toolkit · Context API · React Hooks · Tailwind CSS · Bootstrap · Material UI · SASS/SCSS
+
+**Architecture & Design:** Clean Architecture · CQRS · Repository Pattern · Unit of Work · SOLID · Dependency Injection · Microservices · Design Patterns
+
+**Databases:** SQL Server · PostgreSQL · MongoDB · Redis · T-SQL · Stored Procedures · Indexing · Query Optimization
+
+**Security:** JWT Authentication · OAuth 2.0 · OpenID Connect · ASP.NET Identity · RBAC · API Security
+
+**DevOps & Cloud:** Docker · Azure · Azure DevOps · CI/CD · Azure App Service · Azure SQL · IIS Deployment
+
+**Testing & Tools:** xUnit · Jest · Moq · Postman · Swagger/OpenAPI · Git · GitHub · Visual Studio · VS Code · Jira
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### .NET Backend Developer — LifeBonder 🇩🇰
+### Senior .NET Full Stack Developer — CloudQuik 🇵🇰
 
-**Jan 2026 – Present · Remote**
+**March 2024 – Present · Islamabad, Pakistan**
 
-- Developed and maintained ASP.NET Core RESTful APIs for a live social-networking mobile application.
-- Worked on authentication and core user-interaction features used by real end users.
-- Investigated and resolved bugs and production issues to improve application stability.
-- Collaborated remotely with a Denmark-based product owner on API contracts and feature delivery.
+- Design and develop enterprise web applications using C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, and React.js.
+- Implement Repository Pattern and CQRS with MediatR to separate read and write operations and maintain clean API architecture.
+- Build secure RESTful APIs using JWT, OAuth 2.0, ASP.NET Identity, and role-based authorization.
+- Develop real-time application features using SignalR and WebSockets.
+- Optimize SQL Server queries through indexing and LINQ improvements, reducing average API response time by **35%**.
+- Implement Redis caching to reduce database load and improve application performance.
+- Improve frontend performance by **30%** through lazy loading, code splitting, and caching.
+- Build reusable React component libraries and responsive user interfaces.
+- Integrate payment gateways, analytics, and cloud storage APIs.
+- Automate builds and deployments using Azure DevOps CI/CD pipelines and Docker.
+- Apply SOLID principles, Clean Architecture, and unit testing with xUnit.
+- Mentor junior developers through code reviews and technical guidance.
 
-### Full Stack .NET Developer — Netrix Solutions 🇵🇰
+### MERN Stack Developer — Ewarenet 🇵🇰
 
-**July 2025 – Dec 2025 · Dera Ismail Khan, Pakistan**
+**April 2022 – February 2024 · Islamabad, Pakistan**
 
-- Developed RESTful APIs and e-commerce application features using ASP.NET Core and Blazor.
-- Implemented JWT authentication and role-based access control (RBAC).
-- Designed SQL Server and PostgreSQL schemas using Entity Framework Core.
-- Applied Repository Pattern and Clean Architecture to maintain organized, maintainable code.
-- Built Windows Forms applications to automate internal operational workflows.
-- Fixed bugs, handled change requests, and participated in Git-based code reviews within an Agile team.
+- Developed responsive web applications using React.js, Redux, and Tailwind CSS.
+- Built RESTful backend services using Node.js and Express.js.
+- Improved data retrieval performance through MongoDB schema design and aggregation pipelines.
+- Implemented JWT and OAuth authentication with role-based authorization.
+- Developed real-time notification features using Socket.io.
+- Integrated third-party REST APIs and external services.
+- Tested and validated API endpoints using Postman.
+- Managed source code through Git and GitHub and contributed to Agile sprint delivery and code reviews.
 
 ---
 
 ## 🚀 Projects
 
-### ICIT Department Portal — Backend
+### Hospital Management System
 
-**Mar 2026 – Jun 2026**
+A modular healthcare management platform designed to manage hospital operations, patient records, appointments, billing, and pharmacy workflows.
 
-Scalable university department portal built with ASP.NET Core Web API and Clean Architecture, featuring secure authentication, role-based dashboards, and real-time notifications.
+- Developed backend services using ASP.NET Core and Entity Framework Core.
+- Implemented patient management, appointment scheduling, and Electronic Medical Records (EMR).
+- Created role-based dashboards for administrators, doctors, staff, and patients.
+- Implemented secure authentication and authorization.
+- Developed reporting and analytics using SQL Server and Clean Architecture.
 
-- Implemented JWT authentication with CNIC and Roll Number login.
-- Configured RBAC for four roles: Student, Faculty, Clerk, and Administrator.
-- Developed REST APIs for four role-based dashboards and a public visitor portal.
-- Integrated SignalR for real-time notifications.
-- Coordinated Angular API contracts and authentication flows with the frontend team.
+**Technologies:** .NET Core · Entity Framework Core · React.js · SQL Server · JWT · Bootstrap
 
-**Tech:** ASP.NET Core Web API · Clean Architecture · EF Core · Azure SQL Server · Angular · SignalR · JWT
+### Vaccination Management System
 
-**GitHub:** [ICIT Department Portal](https://github.com/Asim-AKM/ICIT-Department-Portal)
+A full-stack vaccination platform for managing vaccine inventory, patient records, appointments, and vaccination tracking.
 
-### User Management Web API
+- Developed secure ASP.NET Core APIs for vaccine inventory and scheduling.
+- Built React.js interfaces for appointment booking and vaccination tracking.
+- Implemented RBAC for administrators, doctors, and patients.
+- Developed reporting dashboards with optimized database queries and caching.
 
-Production-style REST API providing secure user management, authentication, and standardized API documentation.
+**Technologies:** .NET Core · Entity Framework Core · React.js · SQL Server · JWT · Bootstrap · Material UI
 
-- Implemented full CRUD operations with JWT authentication and role-based authorization.
-- Integrated Swagger/OpenAPI documentation for API testing and exploration.
-- Developed custom middleware for logging, error handling, and response compression.
+### EventCombo — Event Management System
 
-**Tech:** ASP.NET Core · C# · REST API · JWT · Swagger/OpenAPI
+A full-stack event management platform supporting event scheduling, ticket booking, attendee management, vendor management, payments, and reviews.
 
-**GitHub:** [User Management Web API](https://github.com/Asim-AKM/Asp_Dot_UserWebApi)
+- Developed responsive frontend interfaces using React.js.
+- Built scalable backend services using Node.js and Express.js.
+- Implemented event scheduling and ticket booking workflows.
+- Developed attendee and vendor management features.
+- Integrated payment tracking and event review functionality.
+- Designed backend services to support concurrent user activity.
+
+**Technologies:** MongoDB · Express.js · React.js · Node.js · Tailwind CSS · Material UI
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Software Engineering**
+**Bachelor of Science in Software Engineering**
 
-Gomal University · Dera Ismail Khan, KPK, Pakistan
+Gomal University · Dera Ismail Khan, Pakistan
 
-**2022 – 2026 · CGPA: 3.69/4.00**
-
-Relevant Coursework: Software Architecture · Database Systems · Web Development · Object-Oriented Programming
+**2019 – 2023**
 
 ---
 
-## 📜 Certifications & Languages
-
-- **ASP.NET Core Foundations** — ScholarHat · July 2025
-- **English:** Professional
-- **Urdu:** Native
-- **Pashto:** Native
-
----
-
-## 📊 GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/Asim-AKM">
@@ -142,9 +155,9 @@ Relevant Coursework: Software Architecture · Database Systems · Web Developmen
 ---
 
 <p align="center">
-  <i>Building clean software. Learning continuously. Shipping real solutions.</i>
+  <i>Building scalable applications. Writing clean code. Delivering real-world solutions.</i>
 </p>
 
 <p align="center">
-  <a href="mailto:asim.akm9@gmail.com">Let's Connect →</a>
+  <a href="mailto:asimkhanmiani9@gmail.com">Let's Connect →</a>
 </p>
